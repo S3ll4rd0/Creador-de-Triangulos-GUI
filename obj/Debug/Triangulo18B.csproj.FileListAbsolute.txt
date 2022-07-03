@@ -1,0 +1,11 @@
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\Triangulo18B\bin\Debug\Triangulo18B.exe.config
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\Triangulo18B\bin\Debug\Triangulo18B.exe
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\Triangulo18B\bin\Debug\Triangulo18B.pdb
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\Triangulo18B\obj\Debug\Triangulo18B.csproj.AssemblyReference.cache
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\Triangulo18B\obj\Debug\Triangulo18B.csproj.SuggestedBindingRedirects.cache
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\Triangulo18B\obj\Debug\Triangulo18B.Form1.resources
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\Triangulo18B\obj\Debug\Triangulo18B.Properties.Resources.resources
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\Triangulo18B\obj\Debug\Triangulo18B.csproj.GenerateResource.cache
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\Triangulo18B\obj\Debug\Triangulo18B.csproj.CoreCompileInputs.cache
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\Triangulo18B\obj\Debug\Triangulo18B.exe
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\Triangulo18B\obj\Debug\Triangulo18B.pdb
